@@ -1,0 +1,6 @@
+{
+    "short_name": "IRIS_CV",
+    "name": "IRIS_CV",
+    "start_url": "./index.html",
+    "display": "standalone"
+}
